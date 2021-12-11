@@ -1,6 +1,7 @@
 ﻿var __USERRULES__ = [];
 var __RULES__ = [
   "/.*/",
+  "@@||kejiwanjia.com",
   "@@||acwing.com",
   "@@||neu.edu.cn",
   "@@||dogyun.com",
